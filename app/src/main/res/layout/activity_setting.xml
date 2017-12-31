@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".ui.activity.SettingActivity">
+
+    <!-- android:clipToPadding="true"
+     android:fitsSystemWindows="true"-->
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <include layout="@layout/view_toolbar" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/setting"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#f4f4f4"
+            android:orientation="vertical">
+
+            <com.asus.intellegent.ui.view.setting.LineSettingView
+                android:id="@+id/announcements_Setting"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                app:canNav="true"
+                app:subject="语音播报"
+                app:title="语音播报" />
+
+            <com.asus.intellegent.ui.view.setting.LineSettingView
+                android:id="@+id/broadcast_Characters_Setting"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_bg"
+                app:content="小燕"
+                app:isLayout="true"
+                app:isLinear="true"
+                app:title="语音播报角色" />
+
+            <com.asus.intellegent.ui.view.setting.LineSettingView
+                android:id="@+id/upload_contacts__Setting"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                app:canNav="true"
+                app:title="上传联系人" />
+
+            <!--app:titles="允许语音助手使用您的本地联系人以提高识别准确度"-->
+
+            <com.asus.intellegent.ui.view.setting.LineSettingView
+                android:id="@+id/dictation_dialog_box_Setting"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                app:canNav="true"
+                app:isBottom="true"
+                app:title="语音听写对话框" />
+
+            <com.asus.intellegent.ui.view.setting.LineSettingView
+                android:id="@+id/awaken_Setting"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:background="@color/white"
+                app:content="开启"
+                app:isLayout="true"
+                app:isLinear="true"
+                app:subject="启动方式"
+                app:title="语音唤醒" />
+
+            <com.asus.intellegent.ui.view.setting.LineSettingView
+                android:id="@+id/welcome_Setting"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                app:canNav="true"
+                app:isBottom="true"
+                app:title="欢迎语" />
+
+            <com.asus.intellegent.ui.view.setting.LineSettingView
+                android:id="@+id/geographical_position_Setting"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:background="@color/white"
+                app:canNav="true"
+                app:is_title="true"
+                app:layout_height="570"
+                app:subject="其他"
+                app:title="使用我的地理位置"
+                app:titles="允许语音助手使用您的地理位置信息以改善反馈结果" />
+
+            <com.asus.intellegent.ui.view.setting.LineSettingView
+                android:id="@+id/about_Setting"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                app:isBottom="true"
+                app:title="关于" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

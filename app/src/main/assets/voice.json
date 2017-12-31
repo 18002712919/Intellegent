@@ -1,0 +1,308 @@
+[
+  {
+    "informant": "小燕",
+    "timbre": "青年女声",
+    "voice": "普通话",
+    "voice_name": "xiaoyan"
+  },
+  {
+    "informant": "艳萍",
+    "timbre": "青年女声",
+    "voice": "普通话",
+    "voice_name": "aisxyan"
+  },
+  {
+    "informant": "小宇",
+    "timbre": "青年男声",
+    "voice": "普通话",
+    "voice_name": "aisxiaoyu"
+  },
+  {
+    "informant": "宇峰",
+    "timbre": "青年男声",
+    "voice": "普通话",
+    "voice_name": "xiaofeng"
+  },
+  {
+    "informant": "小琪",
+    "timbre": "青年女声",
+    "voice": "普通话",
+    "voice_name": "xiaoqi"
+  },
+  {
+    "informant": "凯瑟琳",
+    "timbre": "青年女声",
+    "voice": "美式英语",
+    "voice_name": "aiscatherine"
+  },
+  {
+    "informant": "楠楠",
+    "timbre": "童声",
+    "voice": "普通话",
+    "voice_name": "aisnn"
+  },
+  {
+    "informant": "玛丽",
+    "timbre": "青年女声",
+    "voice": "美式英语",
+    "voice_name": "mary"
+  },
+  {
+    "informant": "大龙",
+    "timbre": "青年男声",
+    "voice": "粤语",
+    "voice_name": "aisdalong"
+  },
+  {
+    "informant": "小梅",
+    "timbre": "青年女声",
+    "voice": "粤语",
+    "voice_name": "xiaomei"
+  },
+  {
+    "informant": "晓琳",
+    "timbre": "青年女声",
+    "voice": "台湾普通话",
+    "voice_name": "xiaolin"
+  },
+  {
+    "informant": "晓倩",
+    "timbre": "青年女声",
+    "voice": "东北话",
+    "voice_name": "aisxqian"
+  },
+  {
+    "informant": "小蓉",
+    "timbre": "青年女声",
+    "voice": "四川话",
+    "voice_name": "xiaorong"
+  },
+  {
+    "informant": "小坤",
+    "timbre": "青年男声",
+    "voice": "河南话",
+    "voice_name": "xiaokun"
+  },
+  {
+    "informant": "小强",
+    "timbre": "青年男声",
+    "voice": "湖南话",
+    "voice_name": "xiaoqiang"
+  },
+  {
+    "informant": "小英",
+    "timbre": "青年女声",
+    "voice": "陕西话",
+    "voice_name": "aisxying"
+  },
+  {
+    "informant": "亨利",
+    "timbre": "青年男声",
+    "voice": "美式英语",
+    "voice_name": "henry"
+  },
+  {
+    "informant": "许久",
+    "timbre": "青年男声",
+    "voice": "普通话",
+    "voice_name": "aisjiuxu"
+  },
+  {
+    "informant": "小萍",
+    "timbre": "青年女声",
+    "voice": "普通话",
+    "voice_name": "aisxping"
+  },
+  {
+    "informant": "老马",
+    "timbre": "中年男声",
+    "voice": "普通话",
+    "voice_name": "aislaoma"
+  },
+  {
+    "informant": "小宇",
+    "timbre": "青年男声",
+    "voice": "普通话",
+    "voice_name": "aisxiaoyu"
+  },
+  {
+    "informant": "许小宝",
+    "timbre": "童声",
+    "voice": "普通话",
+    "voice_name": "aisbabyxu"
+  },
+  {
+    "informant": "小婧",
+    "timbre": "青年女声",
+    "voice": "普通话",
+    "voice_name": "aisjinger"
+  },
+  {
+    "informant": "叶芳",
+    "timbre": "青年女声",
+    "voice": "普通话",
+    "voice_name": "yefang"
+  },
+  {
+    "informant": "唐老鸭",
+    "timbre": "卡通人物",
+    "voice": "普通话",
+    "voice_name": "aisduck"
+  },
+  {
+    "informant": "小梦",
+    "timbre": "青年女声",
+    "voice": "普通话",
+    "voice_name": "aisxmeng"
+  },
+  {
+    "informant": "孟春",
+    "timbre": "青年女声",
+    "voice": "普通话",
+    "voice_name": "aismengchun"
+  },
+  {
+    "informant": "紫琪",
+    "timbre": "青年女声",
+    "voice": "普通话",
+    "voice_name": "ziqi"
+  },
+  {
+    "informant": "许多",
+    "timbre": "青年男声",
+    "voice": "普通话",
+    "voice_name": "aisduoxu"
+  },
+  {
+    "informant": "Tom",
+    "timbre": "青年男声",
+    "voice": "美式英语",
+    "voice_name": "aistom"
+  },
+  {
+    "informant": "John",
+    "timbre": "青年男声",
+    "voice": "美式英语",
+    "voice_name": "aisxrong"
+  },
+  {
+    "informant": "小新",
+    "timbre": "童声",
+    "voice": "普通话",
+    "voice_name": "xiaoxin"
+  },
+  {
+    "informant": "小丸子",
+    "timbre": "童声",
+    "voice": "普通话",
+    "voice_name": "xiaowanzi"
+  },
+  {
+    "informant": "玛丽安",
+    "timbre": "青年女声",
+    "voice": "法语",
+    "voice_name": "mariane"
+  },
+  {
+    "informant": "阿拉本",
+    "timbre": "青年女声",
+    "voice": "俄语",
+    "voice_name": "allabent"
+  },
+  {
+    "informant": "加芙列拉",
+    "timbre": "青年女声",
+    "voice": "西班牙语",
+    "voice_name": "gabriela"
+  },
+  {
+    "informant": "艾伯哈",
+    "timbre": "青年女声",
+    "voice": "印地语",
+    "voice_name": "Abha"
+  },
+  {
+    "informant": "小云",
+    "timbre": "青年女声",
+    "voice": "越南语",
+    "voice_name": "XiaoYun"
+  },
+  {
+    "informant": "古丽",
+    "timbre": "青年女声",
+    "voice": "维吾尔语",
+    "voice_name": "Guli"
+  },
+  {
+    "informant": "小齐",
+    "timbre": "青年女声",
+    "voice": "普通话",
+    "voice_name": "xiaoqi"
+  },
+  {
+    "informant": "Henry",
+    "timbre": "青年男声",
+    "voice": "英语",
+    "voice_name": "henry"
+  },
+  {
+    "informant": "燕平",
+    "timbre": "青年女声",
+    "voice": "普通话",
+    "voice_name": "燕平"
+  },
+  {
+    "informant": "宇峰 ",
+    "timbre": "青年男声",
+    "voice": "普通话",
+    "voice_name": "aisxiaoyu "
+  },
+  {
+    "informant": "晓琳",
+    "timbre": "青年女声",
+    "voice": "台湾普通话",
+    "voice_name": "aisxlin"
+  },
+  {
+    "informant": "晓蓉",
+    "timbre": "青年女声",
+    "voice": "四川话",
+    "voice_name": "aisxrong"
+  },
+  {
+    "informant": "晓美",
+    "timbre": "青年女声",
+    "voice": "粤语",
+    "voice_name": "aisxmei"
+  },
+  {
+    "informant": "Catherine",
+    "timbre": "青年女声",
+    "voice": "美式纯英文",
+    "voice_name": "aiscatherine"
+  },
+  {
+    "informant": "小萍",
+    "timbre": "青年女声",
+    "voice": "普通话",
+    "voice_name": "aisxping"
+  },
+  {
+    "informant": "小芳",
+    "timbre": "青年女声",
+    "voice": "普通话",
+    "voice_name": "yefang"
+  },
+  {
+    "informant": "小洋",
+    "timbre": "青年男声",
+    "voice": "普通话",
+    "voice_name": "niyang"
+  },
+  {
+    "informant": "小春",
+    "timbre": "青年女声",
+    "voice": "普通话",
+    "voice_name": "aismengchun"
+  }
+]
